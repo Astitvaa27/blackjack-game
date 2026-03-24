@@ -23,7 +23,7 @@ python main.py
 
 ## 📸 Demo
 
-(Add screenshot here later)
+![Blackjack Game](screenshot.png)
 
 ## 🛠️ Tech Stack
 
